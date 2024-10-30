@@ -1,0 +1,7 @@
+/*
+*  This is    backend admin option didgital book style
+*/
+#wpbkc-section { display: block;}
+#wpbkc-section label{width: 150px; display: block; float: left;}
+#wpbkc-section input[type="text"]{width: 120px;}
+#wpbkc-section select{ width:120px;}
